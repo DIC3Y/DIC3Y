@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @DIC3Y
+- 🌱 I’m currently learning more on front end development ...
+- 💞️ I’m looking to collaborate with other people on projects ...
+- 📫 How to reach me Tel:09128119752 mail:falana20000@gmail.com ...
+
+<!---
+DIC3Y/DIC3Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
